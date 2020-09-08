@@ -4,3 +4,4 @@ Name: Imani
 Age: 20
 Major: Cyber Security
 Classification: Junior
+Making some edits to merge 
